@@ -1,9 +1,5 @@
 # psychic-journey
 
-# Мой проект
-
 # 2022.09.17 (new)
 
-# Новая строка
-
-# Changes for console
+# Changes for console. Я вернулся в main и начал изменять файл.
